@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://pwdrkng:fierceFC!3@cluster0.pdkiraz.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
+}
